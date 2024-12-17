@@ -1,0 +1,12 @@
+In the PApplet class,
+it should always have a setup() and draw() method in it.
+to run this program main() program is mandatory.
+
+In the setup method you define all the necessary things
+and in the draw method call the draw() function.
+
+In the Applet,
+the x axis goes from 0 to 100 from left to right
+the y axis goes from 0 to 100 from top to bottom
+
+processing documentation have the methods in it.
