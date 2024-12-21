@@ -5,7 +5,6 @@ import de.fhpotsdam.unfolding.geo.Location;
 import de.fhpotsdam.unfolding.marker.Marker;
 import de.fhpotsdam.unfolding.marker.SimplePointMarker;
 import de.fhpotsdam.unfolding.utils.MapUtils;
-import demos.SimpleLocation;
 import processing.core.PApplet;
 
 public class AddingMarker extends PApplet{
